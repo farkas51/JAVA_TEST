@@ -1,8 +1,8 @@
 package ru.stqa.pft.sandbox;
 
-public class Sqare {
+public class Square {
     public double l;
-    public Sqare(double len){
+    public Square(double len){
         this.l = len;
     }
     public  double area(){
